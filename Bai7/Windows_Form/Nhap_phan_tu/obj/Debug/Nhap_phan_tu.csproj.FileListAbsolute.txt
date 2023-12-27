@@ -1,0 +1,10 @@
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\Nhap_phan_tu\bin\Debug\Nhap_phan_tu.exe.config
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\Nhap_phan_tu\bin\Debug\Nhap_phan_tu.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\Nhap_phan_tu\bin\Debug\Nhap_phan_tu.pdb
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\Nhap_phan_tu\obj\Debug\Nhap_phan_tu.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\Nhap_phan_tu\obj\Debug\Nhap_phan_tu.Form1.resources
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\Nhap_phan_tu\obj\Debug\Nhap_phan_tu.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\Nhap_phan_tu\obj\Debug\Nhap_phan_tu.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\Nhap_phan_tu\obj\Debug\Nhap_phan_tu.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\Nhap_phan_tu\obj\Debug\Nhap_phan_tu.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\Nhap_phan_tu\obj\Debug\Nhap_phan_tu.pdb

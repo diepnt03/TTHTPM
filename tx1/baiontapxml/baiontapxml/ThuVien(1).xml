@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="ThuVien.xslt"?>
+<TV>
+	<NhaXB TenNXB="Giáo dục">
+		<Sach MaSach="S001">
+			<TenSach>Tin Văn Phòng</TenSach>
+			<TheLoai>Tin Học</TheLoai>
+			<SoTrang>50</SoTrang>
+		</Sach>
+		<Sach MaSach="S001">
+			<TenSach>Kế toán doanh nghiệp</TenSach>
+			<TheLoai>Kinh tế</TheLoai>
+			<SoTrang>180</SoTrang>
+		</Sach>
+		<Sach MaSach="S001">
+			<TenSach>Javascript Nâng Cao</TenSach>
+			<TheLoai>Nodejs</TheLoai>
+			<SoTrang>200</SoTrang>
+		</Sach>
+		
+	</NhaXB>
+	<NhaXB TenNXB="Khoa học kỹ thuật">
+		<Sach MaSach="S004">
+			<TenSach>1000 Câu Hỏi Vì Sao</TenSach>
+			<TheLoai>Khoa Học</TheLoai>
+			<SoTrang>220</SoTrang>
+		</Sach>
+		<Sach MaSach="S005">
+			<TenSach>Kinh Tế Thị Trường</TenSach>
+			<TheLoai>Kinh tế</TheLoai>
+			<SoTrang>180</SoTrang>
+		</Sach>
+		<Sach MaSach="S006">
+			<TenSach>Reat Js Chuyên Sâu</TenSach>
+			<TheLoai>Front End</TheLoai>
+			<SoTrang>290</SoTrang>
+		</Sach>
+	</NhaXB>
+</TV>

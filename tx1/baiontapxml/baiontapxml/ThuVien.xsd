@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ThuVien"
+    targetNamespace="http://tempuri.org/ThuVien.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/ThuVien.xsd"
+    xmlns:mstns="http://tempuri.org/ThuVien.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:simpleType name="tensachType">
+		<xs:restriction base="xs:string" />
+	</xs:simpleType>
+	
+	<xs:simpleType name="theloaiType">
+		<xs:restriction base="xs:string"/>			
+	</xs:simpleType>
+	
+	<xs:simpleType name="sotrangType">
+		<xs:restriction base="xs:int">
+			<xs:minExclusive value="50" />
+			<xs:maxExclusive value="400" />
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="masachType" id="masach">
+		<xs:restriction base="xs:string" id="mas">
+			<xs:maxLength value="6" />			
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="tennxbType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Giáo dục" />
+			<xs:enumeration value="Tuổi trẻ" />
+			<xs:enumeration value="Khoa học kỹ thuật" />
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:complexType name="sachType">
+		<xs:sequence>
+			<xs:element name="TenSach" type="tensachType" />
+			<xs:element name="TheLoai" type="theloaiType" />
+			<xs:element name="SoTrang" type="sotrangType" />
+		</xs:sequence>
+		<xs:attribute name="MaSach" type="masachType" use="required" id="masach" />
+	</xs:complexType>
+
+	<xs:complexType name="nhaxbType">
+		<xs:sequence>
+			<xs:element name="Sach" type="sachType" maxOccurs="unbounded" />
+		</xs:sequence>
+		<xs:attribute name="TenNXB" type="tennxbType" />
+	</xs:complexType>
+	
+	<xs:complexType name="tvType">
+		<xs:sequence>
+			<xs:element name="NhaXB" type="nhaxbType" maxOccurs="10" minOccurs="1" />
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:element name="TV" type="tvType" />
+</xs:schema>

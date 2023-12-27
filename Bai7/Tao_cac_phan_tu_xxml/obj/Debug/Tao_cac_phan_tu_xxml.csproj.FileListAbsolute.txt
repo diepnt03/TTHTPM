@@ -1,0 +1,7 @@
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Tao_cac_phan_tu_xxml\bin\Debug\Tao_cac_phan_tu_xxml.exe.config
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Tao_cac_phan_tu_xxml\bin\Debug\Tao_cac_phan_tu_xxml.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Tao_cac_phan_tu_xxml\bin\Debug\Tao_cac_phan_tu_xxml.pdb
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Tao_cac_phan_tu_xxml\obj\Debug\Tao_cac_phan_tu_xxml.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Tao_cac_phan_tu_xxml\obj\Debug\Tao_cac_phan_tu_xxml.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Tao_cac_phan_tu_xxml\obj\Debug\Tao_cac_phan_tu_xxml.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Tao_cac_phan_tu_xxml\obj\Debug\Tao_cac_phan_tu_xxml.pdb

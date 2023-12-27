@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<amnhac>
+  <baihat mabai="M01" theloai="Bolero">
+    <tenbai>Bài ca hy vọng</tenbai>
+    <casi>Lê Dung</casi>
+    <tacgia>An Thuyen</tacgia>
+  </baihat>
+  <baihat mabai="M02" theloai="rap">
+    <tenbai>người lạ ơi</tenbai>
+    <casi>karik</casi>
+    <tacgia>karik</tacgia>
+  </baihat>
+  <baihat mabai="m09" theloai="rap">
+    <tenbai>axxxx</tenbai>
+    <casi>b</casi>
+    <tacgia>c</tacgia>
+  </baihat>
+  <baihat mabai="M05" theloai="kpop">
+    <tenbai>duudu</tenbai>
+    <casi>tara</casi>
+    <tacgia>tara</tacgia>
+  </baihat>
+</amnhac>

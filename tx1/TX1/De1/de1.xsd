@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="de1"
+    targetNamespace="http://tempuri.org/de1.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/de1.xsd"
+    xmlns:mstns="http://tempuri.org/de1.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<!--Mã tác giả là duy nhất có kích thước từ 4 đến 10 kí tự-->
+	<!--Mã NXB, Mã sách-->
+	<xs:simpleType name="maType">
+		<xs:restriction base="xs:ID">
+			<xs:minLength value="4"/>
+			<xs:maxLength value="10"/>
+		</xs:restriction>
+	</xs:simpleType> 
+	
+	<!--Họ tên tác giả: Gồm toàn chữ cái, độ dài không quá 30 ký tự-->
+	<xs:simpleType name="tenTGType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[A-Za-z ]+"/>    <!--chứa các ký tự A-Za-z-->
+			<xs:maxLength value="30"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<!--Quê quán: có không quá 50 ký tự-->
+	<!--Địa chỉ NXB-->
+	<xs:simpleType name="address">
+		<xs:restriction base="xs:string">
+			<xs:maxLength value="50"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!--Số điện thoại: có 10 kí tự gồm toàn chữ số, bắt đầu là 0, kí tự tiếp theo
+	là 1 trong các số từ 1 đến 9, tiếp theo là các số từ 0 đến 9-->
+	<xs:simpleType name="SDTType">
+		<xs:restriction base="xs:string">
+			<xs:length value="10"/>
+			<xs:pattern value="[0][1-9][0-9]{8}"/>		
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!--Tên NXB: độ dài không quá 30 ký tự-->
+	<!--Tên sách-->
+	<xs:simpleType name="tenType">
+		<xs:restriction base="xs:string">			
+			<xs:maxLength value="30"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!--Số trang: là 1 số nguyên dương-->
+	<!--Số lượng quyển-->
+	<xs:simpleType name="soluongType">
+		<xs:restriction base="xs:int">
+			<xs:minInclusive value="0"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<!--Định nghĩa các phần tử chính-->
+	<xs:complexType name="tacgiaType">
+		<xs:sequence>
+			<xs:element name="hoten" type="tenTGType"/>
+			<xs:element name="quequan" type="address"/>
+			<xs:element name="sodienthoai" type="SDTType"/>
+		</xs:sequence>
+		<xs:attribute name="maTG" type="maType" use="required"/>
+	</xs:complexType>
+	
+	<xs:complexType name="sachType">
+		<xs:sequence>
+			<xs:element name="tensach" type="tenType"/>
+			<xs:element name="tacgia" type="tacgiaType" maxOccurs="1"/>
+			<xs:element name="sotrang" type="soluongType"/>
+			<xs:element name="soluong" type="soluongType"/>			
+			<xs:element name="ngayxuatban" type="xs:date"/>			
+		</xs:sequence>
+		<xs:attribute name="masach" type="maType" use="required"/>
+	</xs:complexType>
+
+	<xs:complexType name="nhaXuatBanType">
+		<xs:sequence>
+			<xs:element name="tenNXB" type="tenType"/>
+			<xs:element name="diaChiNXB" type="address"/>
+			<xs:element name="sach" type="sachType" minOccurs="1" maxOccurs="unbounded"/>			
+		</xs:sequence>
+		<xs:attribute name="maNXB" type="maType" use="required"/>
+	</xs:complexType>
+
+	<xs:complexType name="thuVienType">
+		<xs:sequence>
+			<xs:element name="NXB" type="nhaXuatBanType" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:element name="thuvien" type="thuVienType"/>
+</xs:schema>

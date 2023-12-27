@@ -1,0 +1,20 @@
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\bai8_PhieuBT\bai8_PhieuBT\bin\Debug\bai8_PhieuBT.exe.config
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\bai8_PhieuBT\bai8_PhieuBT\bin\Debug\bai8_PhieuBT.exe
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\bai8_PhieuBT\bai8_PhieuBT\bin\Debug\bai8_PhieuBT.pdb
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\bai8_PhieuBT\bai8_PhieuBT\obj\Debug\bai8_PhieuBT.csproj.AssemblyReference.cache
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\bai8_PhieuBT\bai8_PhieuBT\obj\Debug\bai8_PhieuBT.Form1.resources
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\bai8_PhieuBT\bai8_PhieuBT\obj\Debug\bai8_PhieuBT.Properties.Resources.resources
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\bai8_PhieuBT\bai8_PhieuBT\obj\Debug\bai8_PhieuBT.csproj.GenerateResource.cache
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\bai8_PhieuBT\bai8_PhieuBT\obj\Debug\bai8_PhieuBT.csproj.CoreCompileInputs.cache
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\bai8_PhieuBT\bai8_PhieuBT\obj\Debug\bai8_PhieuBT.exe
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\bai8_PhieuBT\bai8_PhieuBT\obj\Debug\bai8_PhieuBT.pdb
+D:\Tai lieu\TichHopHeThong\bai8_PhieuBT\bai8_PhieuBT\bin\Debug\bai8_PhieuBT.exe.config
+D:\Tai lieu\TichHopHeThong\bai8_PhieuBT\bai8_PhieuBT\bin\Debug\bai8_PhieuBT.exe
+D:\Tai lieu\TichHopHeThong\bai8_PhieuBT\bai8_PhieuBT\bin\Debug\bai8_PhieuBT.pdb
+D:\Tai lieu\TichHopHeThong\bai8_PhieuBT\bai8_PhieuBT\obj\Debug\bai8_PhieuBT.csproj.AssemblyReference.cache
+D:\Tai lieu\TichHopHeThong\bai8_PhieuBT\bai8_PhieuBT\obj\Debug\bai8_PhieuBT.Form1.resources
+D:\Tai lieu\TichHopHeThong\bai8_PhieuBT\bai8_PhieuBT\obj\Debug\bai8_PhieuBT.Properties.Resources.resources
+D:\Tai lieu\TichHopHeThong\bai8_PhieuBT\bai8_PhieuBT\obj\Debug\bai8_PhieuBT.csproj.GenerateResource.cache
+D:\Tai lieu\TichHopHeThong\bai8_PhieuBT\bai8_PhieuBT\obj\Debug\bai8_PhieuBT.csproj.CoreCompileInputs.cache
+D:\Tai lieu\TichHopHeThong\bai8_PhieuBT\bai8_PhieuBT\obj\Debug\bai8_PhieuBT.exe
+D:\Tai lieu\TichHopHeThong\bai8_PhieuBT\bai8_PhieuBT\obj\Debug\bai8_PhieuBT.pdb

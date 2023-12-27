@@ -1,0 +1,20 @@
+<thuvien>
+  <cuonsach masach="j01" theloai="Công nghệ thông tin">
+    <tensach>Lập trình java</tensach>
+    <sotrang>500</sotrang>
+    <tacgia>
+      <hoten>Nguyễn Đăng Hoàng</hoten>
+      <dienthoai>09876555</dienthoai>
+    </tacgia>
+    <giatien>350</giatien>
+  </cuonsach>
+  <cuonsach masach="j02" theloai="Công nghệ thông tin">
+    <tensach>Lập trình python</tensach>
+    <sotrang>450</sotrang>
+    <tacgia>
+      <hoten>Lê Mai Anh</hoten>
+      <dienthoai>09876555</dienthoai>
+    </tacgia>
+    <giatien>350</giatien>
+  </cuonsach>
+</thuvien>

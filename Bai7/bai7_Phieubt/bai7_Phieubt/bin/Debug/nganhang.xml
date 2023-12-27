@@ -1,0 +1,21 @@
+<nganhang>
+  <sotien>900000</sotien>
+  <taikhoan>
+    <sotaikhoan>tk001</sotaikhoan>
+    <tentaikhoan>Minh Tú </tentaikhoan>
+    <diachi>Bắc Cạn</diachi>
+    <sotien>900000</sotien>
+  </taikhoan>
+  <taikhoan>
+    <sotaikhoan>th03</sotaikhoan>
+    <tentaikhoan>thidiep xinhhh</tentaikhoan>
+    <diachi>vp</diachi>
+    <sotien>5000000</sotien>
+  </taikhoan>
+  <taikhoan>
+    <sotaikhoan>th02</sotaikhoan>
+    <tentaikhoan>nguyen thuat</tentaikhoan>
+    <diachi>hn</diachi>
+    <sotien>3456</sotien>
+  </taikhoan>
+</nganhang>

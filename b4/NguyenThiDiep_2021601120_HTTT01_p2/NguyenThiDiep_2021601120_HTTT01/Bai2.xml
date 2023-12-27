@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DS xmlns="http://tempuri.org/Bai2.xsd">
+	<HoaDon>
+		<MaHD>HD1</MaHD>
+		<NgayBan>2015-11-09</NgayBan>
+		<LoaiHang MaLoai="A" TenLoai="Điện tử">
+			<Hang MaHang="H1">
+				<TenHang>Tivi</TenHang>
+				<SoLuong>60</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>45784</DonGia>
+			</Hang>
+			<Hang MaHang="H2">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+			<Hang MaHang="H3">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+		</LoaiHang>
+		<LoaiHang MaLoai="A" TenLoai="Điện tử">
+			<Hang MaHang="H4">
+				<TenHang>Tivi</TenHang>
+				<SoLuong>60</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>45784</DonGia>
+			</Hang>
+			<Hang MaHang="H5">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+			<Hang MaHang="H6">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+		</LoaiHang>
+		<LoaiHang MaLoai="A" TenLoai="Điện tử">
+			<Hang MaHang="H7">
+				<TenHang>Tivi</TenHang>
+				<SoLuong>60</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>45784</DonGia>
+			</Hang>
+			<Hang MaHang="H8">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+			<Hang MaHang="H9">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+		</LoaiHang>
+		<LoaiHang MaLoai="A" TenLoai="Điện tử">
+			<Hang MaHang="H1">
+				<TenHang>Tivi</TenHang>
+				<SoLuong>60</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>45784</DonGia>
+			</Hang>
+			<Hang MaHang="H2">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+			<Hang MaHang="H3">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+		</LoaiHang>
+		<LoaiHang MaLoai="A" TenLoai="Điện tử">
+			<Hang MaHang="H1">
+				<TenHang>Tivi</TenHang>
+				<SoLuong>60</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>45784</DonGia>
+			</Hang>
+			<Hang MaHang="H2">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+			<Hang MaHang="H3">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+		</LoaiHang>
+		<LoaiHang MaLoai="A" TenLoai="Điện tử">
+			<Hang MaHang="H1">
+				<TenHang>Tivi</TenHang>
+				<SoLuong>60</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>45784</DonGia>
+			</Hang>
+			<Hang MaHang="H2">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+			<Hang MaHang="H3">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+		</LoaiHang>
+		<LoaiHang MaLoai="A" TenLoai="Điện tử">
+			<Hang MaHang="H1">
+				<TenHang>Tivi</TenHang>
+				<SoLuong>60</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>45784</DonGia>
+			</Hang>
+			<Hang MaHang="H2">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+			<Hang MaHang="H3">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+		</LoaiHang>
+		<LoaiHang MaLoai="A" TenLoai="Điện tử">
+			<Hang MaHang="H1">
+				<TenHang>Tivi</TenHang>
+				<SoLuong>60</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>45784</DonGia>
+			</Hang>
+			<Hang MaHang="H2">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+			<Hang MaHang="H3">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+		</LoaiHang>
+		<LoaiHang MaLoai="A" TenLoai="Điện tử">
+			<Hang MaHang="H1">
+				<TenHang>Tivi</TenHang>
+				<SoLuong>60</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>45784</DonGia>
+			</Hang>
+			<Hang MaHang="H2">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+			<Hang MaHang="H3">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+		</LoaiHang>
+		<LoaiHang MaLoai="b" TenLoai="Điện tử 2">
+			<Hang MaHang="H4">
+				<TenHang>Tivi</TenHang>
+				<SoLuong>60</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>45784</DonGia>
+			</Hang>
+			<Hang MaHang="H5">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+			<Hang MaHang="H6">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+		</LoaiHang>
+	</HoaDon>
+	<HoaDon>
+		<MaHD>HD2</MaHD>
+		<NgayBan>2015-12-09</NgayBan>
+		<LoaiHang MaLoai="c" TenLoai="Điện tử 3">
+			<Hang MaHang="H7">
+				<TenHang>Tivi</TenHang>
+				<SoLuong>60</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>45784</DonGia>
+			</Hang>
+			<Hang MaHang="H8">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+			<Hang MaHang="H9">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+		</LoaiHang>
+		<LoaiHang MaLoai="b" TenLoai="Điện tử 2">
+			<Hang MaHang="H10">
+				<TenHang>Tivi</TenHang>
+				<SoLuong>60</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>45784</DonGia>
+			</Hang>
+			<Hang MaHang="H11">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+			<Hang MaHang="H12">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong> 80 </SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4200000</DonGia>
+			</Hang>
+		</LoaiHang>
+	</HoaDon>
+</DS>

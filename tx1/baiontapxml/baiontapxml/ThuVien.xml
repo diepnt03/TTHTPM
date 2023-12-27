@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="ThuVien.xslt"?>
+<TV xmlns ="http://tempuri.org/ThuVien.xsd">
+	<NhaXB TenNXB="Giáo dục">
+		<Sach MaSach="S001">
+			<TenSach>Tin Văn Phòng</TenSach>
+			<TheLoai>Tin Học</TheLoai>
+			<SoTrang>60</SoTrang>
+		</Sach>
+		<Sach MaSach="S001">
+			<TenSach>Kế toán doanh nghiệp</TenSach>
+			<TheLoai>Kinh tế</TheLoai>
+			<SoTrang>380</SoTrang>
+		</Sach>
+		<Sach MaSach="S001fj">
+			<TenSach>Javascript Nâng Cao</TenSach>
+			<TheLoai>Nodejs</TheLoai>
+			<SoTrang>200</SoTrang>
+		</Sach>
+	</NhaXB>
+	<NhaXB TenNXB="Khoa học kỹ thuật">
+		<Sach MaSach="S001">
+			<TenSach>1000 Câu Hỏi Vì Sao</TenSach>
+			<TheLoai>Khoa Học</TheLoai>
+			<SoTrang>220</SoTrang>
+		</Sach>
+		<Sach MaSach="S005">
+			<TenSach>Kinh Tế Thị Trường</TenSach>
+			<TheLoai>Kinh tế</TheLoai>
+			<SoTrang>180</SoTrang>
+		</Sach>
+		<Sach MaSach="S006">
+			<TenSach>Reat Js Chuyên Sâu</TenSach>
+			<TheLoai>Front End</TheLoai>
+			<SoTrang>290</SoTrang>
+		</Sach>
+		<Sach MaSach="S04">
+			<TenSach>x</TenSach>
+			<TheLoai>a</TheLoai>
+			<SoTrang>300</SoTrang>
+		</Sach>
+	</NhaXB>
+	<NhaXB TenNXB="Tuổi trẻ">
+		<Sach MaSach="3">
+			<TenSach>a</TenSach>
+			<TheLoai>b</TheLoai>
+			<SoTrang>200</SoTrang>
+		</Sach>
+	</NhaXB>
+</TV>

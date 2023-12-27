@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nhap_phan_tu", "Nhap_phan_tu\Nhap_phan_tu.csproj", "{FA3FB6AD-1545-4CAB-B8EF-4FCB8EFEFA02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTH1", "BaiTH1\BaiTH1.csproj", "{0A863F76-0D10-4EA2-BC30-E0AC7EEAE689}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTH2", "BaiTH2\BaiTH2.csproj", "{C2F20685-6AE8-46D6-9510-D5A3A3B37291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA3FB6AD-1545-4CAB-B8EF-4FCB8EFEFA02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3FB6AD-1545-4CAB-B8EF-4FCB8EFEFA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3FB6AD-1545-4CAB-B8EF-4FCB8EFEFA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3FB6AD-1545-4CAB-B8EF-4FCB8EFEFA02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A863F76-0D10-4EA2-BC30-E0AC7EEAE689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A863F76-0D10-4EA2-BC30-E0AC7EEAE689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A863F76-0D10-4EA2-BC30-E0AC7EEAE689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A863F76-0D10-4EA2-BC30-E0AC7EEAE689}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F20685-6AE8-46D6-9510-D5A3A3B37291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F20685-6AE8-46D6-9510-D5A3A3B37291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F20685-6AE8-46D6-9510-D5A3A3B37291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F20685-6AE8-46D6-9510-D5A3A3B37291}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5042F77D-CC58-48AE-AA1D-CB37B5D92456}
+	EndGlobalSection
+EndGlobal

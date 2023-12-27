@@ -1,0 +1,30 @@
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\bai7_Phieubt\bai7_Phieubt\bin\Debug\bai7_Phieubt.exe.config
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\bai7_Phieubt\bai7_Phieubt\bin\Debug\bai7_Phieubt.exe
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\bai7_Phieubt\bai7_Phieubt\bin\Debug\bai7_Phieubt.pdb
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\bai7_Phieubt\bai7_Phieubt\obj\Debug\bai7_Phieubt.csproj.AssemblyReference.cache
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\bai7_Phieubt\bai7_Phieubt\obj\Debug\bai7_Phieubt.Form1.resources
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\bai7_Phieubt\bai7_Phieubt\obj\Debug\bai7_Phieubt.Properties.Resources.resources
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\bai7_Phieubt\bai7_Phieubt\obj\Debug\bai7_Phieubt.csproj.GenerateResource.cache
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\bai7_Phieubt\bai7_Phieubt\obj\Debug\bai7_Phieubt.csproj.CoreCompileInputs.cache
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\bai7_Phieubt\bai7_Phieubt\obj\Debug\bai7_Phieubt.exe
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\bai7_Phieubt\bai7_Phieubt\obj\Debug\bai7_Phieubt.pdb
+D:\Tai lieu\TichHopHeThong\bai7_Phieubt\bai7_Phieubt\bin\Debug\bai7_Phieubt.exe.config
+D:\Tai lieu\TichHopHeThong\bai7_Phieubt\bai7_Phieubt\bin\Debug\bai7_Phieubt.exe
+D:\Tai lieu\TichHopHeThong\bai7_Phieubt\bai7_Phieubt\bin\Debug\bai7_Phieubt.pdb
+D:\Tai lieu\TichHopHeThong\bai7_Phieubt\bai7_Phieubt\obj\Debug\bai7_Phieubt.csproj.AssemblyReference.cache
+D:\Tai lieu\TichHopHeThong\bai7_Phieubt\bai7_Phieubt\obj\Debug\bai7_Phieubt.Form1.resources
+D:\Tai lieu\TichHopHeThong\bai7_Phieubt\bai7_Phieubt\obj\Debug\bai7_Phieubt.Properties.Resources.resources
+D:\Tai lieu\TichHopHeThong\bai7_Phieubt\bai7_Phieubt\obj\Debug\bai7_Phieubt.csproj.GenerateResource.cache
+D:\Tai lieu\TichHopHeThong\bai7_Phieubt\bai7_Phieubt\obj\Debug\bai7_Phieubt.csproj.CoreCompileInputs.cache
+D:\Tai lieu\TichHopHeThong\bai7_Phieubt\bai7_Phieubt\obj\Debug\bai7_Phieubt.exe
+D:\Tai lieu\TichHopHeThong\bai7_Phieubt\bai7_Phieubt\obj\Debug\bai7_Phieubt.pdb
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\bai7_Phieubt\bai7_Phieubt\bin\Debug\bai7_Phieubt.exe.config
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\bai7_Phieubt\bai7_Phieubt\bin\Debug\bai7_Phieubt.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\bai7_Phieubt\bai7_Phieubt\bin\Debug\bai7_Phieubt.pdb
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\bai7_Phieubt\bai7_Phieubt\obj\Debug\bai7_Phieubt.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\bai7_Phieubt\bai7_Phieubt\obj\Debug\bai7_Phieubt.Form1.resources
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\bai7_Phieubt\bai7_Phieubt\obj\Debug\bai7_Phieubt.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\bai7_Phieubt\bai7_Phieubt\obj\Debug\bai7_Phieubt.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\bai7_Phieubt\bai7_Phieubt\obj\Debug\bai7_Phieubt.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\bai7_Phieubt\bai7_Phieubt\obj\Debug\bai7_Phieubt.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\bai7_Phieubt\bai7_Phieubt\obj\Debug\bai7_Phieubt.pdb

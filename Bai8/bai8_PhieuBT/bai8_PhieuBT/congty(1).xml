@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<congty>
+	<nhanvien manv="n01">
+		<hoten>Nguyễn Thi Anh</hoten>
+		<tuoi>38</tuoi>
+		<luong>1000</luong>
+		<diachi>
+			<xa>Minh Khai</xa>
+			<huyen>Bắc Từ Liên</huyen>
+			<tinh>Hà NỘI</tinh>
+		</diachi>
+		<dienthoai>0987878888</dienthoai>
+	</nhanvien>
+	<nhanvien>
+		<hoten>Trần Văn Tuấn</hoten>
+		<tuoi>36</tuoi>
+		<luong>1800</luong>
+		<diachi>
+			<xa>Hải Lựu</xa>
+			<huyen>Sông Lô</huyen>
+			<tinh>Vĩnh Phúc</tinh>
+		</diachi>
+		<dienthoai>0986578888</dienthoai>
+	</nhanvien>
+</congty>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Class"
+    targetNamespace="http://tempuri.org/Class.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Class.xsd"
+    xmlns:mstns="http://tempuri.org/Class.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:complexType name ="person">
+		<xs:sequence>
+			<!--các phần tử con của student phải xuất hiện theo thứ tự-->
+			<xs:element name="sid">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:pattern value="[S]\d{3}"/> <!--sid bắt đầu là S và theo sau là 3 số-->
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="name">
+				<xs:simpleType><!--name không chứa phần tử con nên name là simpleType-->
+					<xs:restriction base="xs:string">
+						<xs:pattern value="[A-Za-z ]+"/>	<!--name chứa các ký tự A-Za-z và dấu cách-->
+					</xs:restriction>						<!--name tối thiểu có 1 ký tự-->
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="dob" type="xs:date"/>
+			<xs:element name="mark">	<!--mark là số chỉ cho phép từ 1 đến 10-->
+				<xs:simpleType>
+					<xs:restriction base="xs:int">
+						<xs:minInclusive value="1"/>
+						<xs:maxInclusive value="10"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="class">
+		<xs:complexType>
+			<xs:sequence>
+				<!-- sẽ có ít nhất 1 con student, nhiều nhất là vo hạn-->
+				<xs:element name="student" type="person" minOccurs="1" maxOccurs="unbounded"/>
+					
+				
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

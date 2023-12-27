@@ -1,0 +1,7 @@
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\BaiTH1\bin\Debug\BaiTH1.exe.config
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\BaiTH1\bin\Debug\BaiTH1.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\BaiTH1\bin\Debug\BaiTH1.pdb
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\BaiTH1\obj\Debug\BaiTH1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\BaiTH1\obj\Debug\BaiTH1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\BaiTH1\obj\Debug\BaiTH1.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\BaiTH1\obj\Debug\BaiTH1.pdb

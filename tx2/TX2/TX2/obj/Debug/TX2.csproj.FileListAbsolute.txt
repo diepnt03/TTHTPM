@@ -1,0 +1,10 @@
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\tx2\TX2\TX2\bin\Debug\TX2.exe.config
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\tx2\TX2\TX2\bin\Debug\TX2.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\tx2\TX2\TX2\bin\Debug\TX2.pdb
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\tx2\TX2\TX2\obj\Debug\TX2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\tx2\TX2\TX2\obj\Debug\TX2.Form1.resources
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\tx2\TX2\TX2\obj\Debug\TX2.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\tx2\TX2\TX2\obj\Debug\TX2.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\tx2\TX2\TX2\obj\Debug\TX2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\tx2\TX2\TX2\obj\Debug\TX2.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\tx2\TX2\TX2\obj\Debug\TX2.pdb

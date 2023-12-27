@@ -1,0 +1,7 @@
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\b6\DocFile\DocFile\obj\Debug\DocFile.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\b6\DocFile\DocFile\obj\Debug\DocFile.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\b6\DocFile\DocFile\bin\Debug\DocFile.exe.config
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\b6\DocFile\DocFile\bin\Debug\DocFile.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\b6\DocFile\DocFile\bin\Debug\DocFile.pdb
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\b6\DocFile\DocFile\obj\Debug\DocFile.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\b6\DocFile\DocFile\obj\Debug\DocFile.pdb

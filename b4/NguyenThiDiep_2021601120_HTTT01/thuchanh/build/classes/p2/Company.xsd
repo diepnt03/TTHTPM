@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XmlSchema.xsd to edit this template
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+    <!--egender là kiểu dữ liệu mới nên cần được định nghiã-->
+    <xs:simpleType name="egender">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="male|female"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:complexType name="emp">
+        <xs:sequence>
+            <xs:element name="name">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:pattern value="[A-Za-z ]{3,}"/>
+                        <!--chứa các letter và dấu cách,tối thiểu là 3 ký tự-->
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            
+            <xs:element name="userid">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:pattern value="[A-Za-z ][A-Za-z0-9 ]{5,}"/>
+                        <!--tối thiểu là 6 ký tự, bắt đầu bằng letter-->
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            
+             <xs:element name="phone">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:pattern value="\d{3}-\d{3}-\d{4}"/>
+                        <!--10 số, dạng xxx-xxx-xxxx-->
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            
+            <xs:element name="salay">
+                <xs:simpleType>
+                    <xs:restriction base="xs:positiveInteger">
+                        <xs:minInclusive value="1000"/>
+                        <xs:maxInclusive value="2000"/>
+                        <!--có giá trị >=1000 & <=2000-->
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            
+            <xs:element name="address">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:enumeration value="HN"/>
+                        <xs:enumeration value="HP"/>
+                        <xs:enumeration value="QN"/>
+                        <!--chỉ được nhận 3 giá trị HN,HP,QN-->
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+        </xs:sequence>
+        <!--xs:attribute là phía sau xs:sequence, trước khi kết thúc xs:compleType-->
+        <xs:attribute name="id" type="xs:ID" use="required"/>
+        <!--thuộc tính id có kiểu xs:ID quy định giá trị của id phải là khác nhau và bắt đầu bằng letter-->
+        <xs:attribute name="gender" type="egender" use="optional"/>
+        <!--thuộc tính gender chỉ được chọn 1 trong 2 giá trị male và female-->
+    </xs:complexType>
+    
+    <!--Tạo phần tử gốc company, chứa ít nhất 3 phần tử employee và nhiều nhất 100 phần tử-->
+    <xs:element name="company">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="employee" type="emp" minOccurs="3" maxOccurs="100"/>
+            </xs:sequence>                
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

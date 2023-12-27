@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Bai2"
+    targetNamespace="http://tempuri.org/Bai2.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Bai2.xsd"
+    xmlns:mstns="http://tempuri.org/Bai2.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<!-- Định nghĩa các kiểu dữ liệu -->
+	<!-- Mã hàng phải à duy nhất(tối đa 6 ký tự)-->
+	<xs:simpleType name="MaHangType">
+		<xs:restriction base="xs:ID">
+			<xs:maxLength value="6"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!--Đơn vị tính có thể là 1 trong các gt sau: gói hộp chiếc-->
+	<xs:simpleType name="DonViTinhType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="gói"/>
+			<xs:enumeration value="hộp"/>
+			<xs:enumeration value="chiếc"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!--Đơn giá phải lớn hơn 0-->
+	<xs:simpleType name="DonGiaType">
+		<xs:restriction base="xs:float">
+			<xs:minInclusive value="0"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!-- Định nghĩa các phần tử chính -->
+	<!--Cho phép nhập tối đa 4 HĐ, 10 loại hàng và kh hạn chế các mặt hàng-->
+	<xs:complexType name="mhType">
+		<xs:sequence>
+			<xs:element name="TenHang" type="xs:string"/>
+			<xs:element name="SoLuong" type="xs:integer"/>
+			<xs:element name="DonViTinh" type="DonViTinhType"/>
+			<xs:element name="DonGia" type="DonGiaType"/>
+		</xs:sequence>
+		<xs:attribute name="MaHang" type="MaHangType" use="required"></xs:attribute>
+	</xs:complexType>
+	<xs:complexType name="LoaiHangType">
+		<xs:sequence>
+			<xs:element name="Hang" type="mstns:mhType" minOccurs="0" maxOccurs="unbounded"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="MaLoai" type="xs:string" use="required"></xs:attribute>
+		<xs:attribute name="TenLoai" type="xs:string" use="required"></xs:attribute>
+	</xs:complexType>
+	<xs:complexType name="HDtype">
+		<xs:sequence>
+			<xs:element name="MaHD" type="xs:string"/>
+			<xs:element name="NgayBan" type="xs:date"/>
+			<xs:element name="LoaiHang" type="mstns:LoaiHangType" minOccurs="0" maxOccurs="10"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="DStype">
+		<xs:sequence>
+			<xs:element name="HoaDon" type="mstns:HDtype" minOccurs="0" maxOccurs="4"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="DS" type="mstns:DStype"></xs:element>
+</xs:schema>

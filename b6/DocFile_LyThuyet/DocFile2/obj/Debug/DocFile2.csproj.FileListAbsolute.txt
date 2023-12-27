@@ -1,0 +1,7 @@
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\b6\DocFile_LyThuyet\DocFile2\bin\Debug\DocFile2.exe.config
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\b6\DocFile_LyThuyet\DocFile2\bin\Debug\DocFile2.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\b6\DocFile_LyThuyet\DocFile2\bin\Debug\DocFile2.pdb
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\b6\DocFile_LyThuyet\DocFile2\obj\Debug\DocFile2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\b6\DocFile_LyThuyet\DocFile2\obj\Debug\DocFile2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\b6\DocFile_LyThuyet\DocFile2\obj\Debug\DocFile2.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\b6\DocFile_LyThuyet\DocFile2\obj\Debug\DocFile2.pdb

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<?xml-stylesheet type="text/xsl" href="QLBenhAn.xslt"?>
+<QLBA xmlns="http://tempuri.org/QLBenhAn.xsd">
+	<BV TenBV="Bệnh viện 198">
+		<Khoa ID="TMH01" TruongKhoa="Tôn Thất Bách">
+			<TenKhoa>Khoa tai mũi họng</TenKhoa>
+			<BenhNhan MaSo="BN001">
+				<HoTen>Trần Văn Kiên</HoTen>
+				<GioiTinh>Nam</GioiTinh>
+				<SoNgayNamVien>12</SoNgayNamVien>
+			</BenhNhan>
+			<BenhNhan MaSo="BN002">
+				<HoTen>Trần Thị Bình</HoTen>
+				<GioiTinh>Nữ</GioiTinh>
+				<SoNgayNamVien>20</SoNgayNamVien>
+			</BenhNhan>
+			<BenhNhan MaSo="BN003">
+				<HoTen>Trần Thị Bình</HoTen>
+				<GioiTinh>Nữ</GioiTinh>
+				<SoNgayNamVien>20</SoNgayNamVien>
+			</BenhNhan>
+		</Khoa>
+		<Khoa ID="TMH02" TruongKhoa="Tôn Thất Bách 2">
+			<TenKhoa>Khoa tai mũi họng</TenKhoa>
+			<BenhNhan MaSo="BN004">
+				<HoTen>Trần Văn Kiên</HoTen>
+				<GioiTinh>Nam</GioiTinh>
+				<SoNgayNamVien>22</SoNgayNamVien>
+			</BenhNhan>
+			<BenhNhan MaSo="BN005">
+				<HoTen>Trần Thị Bình</HoTen>
+				<GioiTinh>Nữ</GioiTinh>
+				<SoNgayNamVien>20</SoNgayNamVien>
+			</BenhNhan>
+			<BenhNhan MaSo="BN006">
+				<HoTen>Trần Thị Bình</HoTen>
+				<GioiTinh>Nữ</GioiTinh>
+				<SoNgayNamVien>20</SoNgayNamVien>
+			</BenhNhan>
+		</Khoa>
+	</BV>
+</QLBA>

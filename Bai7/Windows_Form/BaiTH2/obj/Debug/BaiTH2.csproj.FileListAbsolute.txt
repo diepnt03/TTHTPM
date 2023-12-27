@@ -1,0 +1,10 @@
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\BaiTH2\bin\Debug\BaiTH2.exe.config
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\BaiTH2\bin\Debug\BaiTH2.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\BaiTH2\bin\Debug\BaiTH2.pdb
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\BaiTH2\obj\Debug\BaiTH2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\BaiTH2\obj\Debug\BaiTH2.Form1.resources
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\BaiTH2\obj\Debug\BaiTH2.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\BaiTH2\obj\Debug\BaiTH2.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\BaiTH2\obj\Debug\BaiTH2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\BaiTH2\obj\Debug\BaiTH2.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\Bai7\Windows_Form\BaiTH2\obj\Debug\BaiTH2.pdb

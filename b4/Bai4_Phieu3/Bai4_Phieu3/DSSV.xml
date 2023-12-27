@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="DSSV.xslt"?>
+<kqht xmlns="http://tempuri.org/DSSV.xsd">
+	<namhoc nam="2009">
+		<lop malop="ktpm5-k9" gvcn="Trần Mai Linh">
+			<sv>
+				<info>
+					<maSV>01237858</maSV>
+					<hoTen>Nguyễn Việt Đức</hoTen>
+					<ngaySinh>1997-05-03</ngaySinh>
+				</info>
+				<monhoc
+					<mon tenmon="Toán" stt="1">
+						<Diem>
+							<lan1>5</lan1>
+							<lan2>6</lan2>
+							<caNam>8</caNam>
+						</Diem>
+					</mon>
+					<mon tenmon="Toán" stt="2">
+						<Diem>
+							<lan1>5</lan1>
+							<lan2>6</lan2>
+							<caNam>8</caNam>
+						</Diem>
+					</mon>
+					<mon tenmon="Toán" stt="3">
+						<Diem>
+							<lan1>5</lan1>
+							<lan2>6</lan2>
+							<caNam>8</caNam>
+						</Diem>
+					</mon>
+				</monhoc>
+				<xeploai>
+					<hocLuc>Trung bình</hocLuc>
+					<hanhKiem>Kha</hanhKiem>
+				</xeploai>
+			</sv>
+		</lop>
+	</namhoc>
+</kqht>

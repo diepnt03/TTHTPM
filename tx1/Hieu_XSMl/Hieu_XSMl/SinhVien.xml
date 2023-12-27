@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="SinhVien.xslt"?>
+<DSSV>
+	<sv masv="1">
+		<hoten>Nguyễn Văn A</hoten>
+		<diem>7</diem>
+	</sv>
+
+	<sv masv="1">
+		<hoten>Nguyễn Tú Minh</hoten>
+		<diem>7</diem>
+	</sv>
+
+	<sv masv="2">
+		<hoten>Nguyễn Văn b</hoten>
+		<diem>8</diem>
+	</sv>
+
+	<sv masv="3">
+		<hoten>Nguyễn Văn c</hoten>
+		<diem>5</diem>
+	</sv>
+
+	<sv masv="6">
+		<hoten>Nguyễn Văn d</hoten>
+		<diem>8</diem>
+	</sv>
+
+	<sv masv="5">
+		<hoten>Nguyễn Văn e</hoten>
+		<diem>7.6</diem>
+	</sv>
+
+	<sv masv="6">
+		<hoten>Nguyễn Văn</hoten>
+		<diem>9.8</diem>
+	</sv>
+
+</DSSV>

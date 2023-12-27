@@ -1,0 +1,10 @@
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\SuDungRestAPI\SuDungRestAPI\bin\Debug\SuDungRestAPI.exe.config
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\SuDungRestAPI\SuDungRestAPI\bin\Debug\SuDungRestAPI.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\SuDungRestAPI\SuDungRestAPI\bin\Debug\SuDungRestAPI.pdb
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\SuDungRestAPI\SuDungRestAPI\obj\Debug\SuDungRestAPI.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\SuDungRestAPI\SuDungRestAPI\obj\Debug\SuDungRestAPI.Form1.resources
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\SuDungRestAPI\SuDungRestAPI\obj\Debug\SuDungRestAPI.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\SuDungRestAPI\SuDungRestAPI\obj\Debug\SuDungRestAPI.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\SuDungRestAPI\SuDungRestAPI\obj\Debug\SuDungRestAPI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\SuDungRestAPI\SuDungRestAPI\obj\Debug\SuDungRestAPI.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\SuDungRestAPI\SuDungRestAPI\obj\Debug\SuDungRestAPI.pdb

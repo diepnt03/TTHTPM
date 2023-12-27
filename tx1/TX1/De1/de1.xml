@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="de1.xslt"?>
+<thuvien xmlns="http://tempuri.org/de1.xsd">
+	<NXB maNXB="nxb1">
+		<tenNXB>nhà xuất bản 1</tenNXB>
+		<diaChiNXB>hà nội</diaChiNXB>
+		<sach masach="sach01">
+			<tensach>sach thu 1</tensach>
+			<tacgia maTG="tg01">
+				<hoten>Nguyen van a</hoten>
+				<quequan>vĩnh phúc</quequan>
+				<sodienthoai>0177346549</sodienthoai>				
+			</tacgia>			
+			<sotrang>100</sotrang>
+			<soluong>20</soluong>
+			<ngayxuatban>2019-04-02</ngayxuatban>			
+		</sach>
+		<sach masach="sach02">
+			<tensach>sach thu 1</tensach>
+			<tacgia maTG="tg03">
+				<hoten>Nguyen van a</hoten>
+				<quequan>vĩnh phúc</quequan>
+				<sodienthoai>0177346549</sodienthoai>
+			</tacgia>			
+			<sotrang>100</sotrang>
+			<soluong>20</soluong>
+			<ngayxuatban>2019-04-02</ngayxuatban>
+		</sach>		
+	</NXB>
+	<NXB maNXB="nxb2">
+		<tenNXB>nhà xuất bản 1</tenNXB>
+		<diaChiNXB>hà nội</diaChiNXB>
+		<sach masach="sach03">
+			<tensach>sach thu 1</tensach>
+			<tacgia maTG="tg02">
+				<hoten>Nguyen van a</hoten>
+				<quequan>vĩnh phúc</quequan>
+				<sodienthoai>0177346549</sodienthoai>
+			</tacgia>
+			<sotrang>100</sotrang>
+			<soluong>20</soluong>
+			<ngayxuatban>2019-04-02</ngayxuatban>
+		</sach>
+		<sach masach="sach04">
+			<tensach>sach thu 1</tensach>
+			<tacgia maTG="tg04">
+				<hoten>Nguyen van a</hoten>
+				<quequan>vĩnh phúc</quequan>
+				<sodienthoai>0177346549</sodienthoai>
+			</tacgia>
+			<sotrang>100</sotrang>
+			<soluong>20</soluong>
+			<ngayxuatban>2019-04-02</ngayxuatban>
+		</sach>
+	</NXB>
+	
+</thuvien>

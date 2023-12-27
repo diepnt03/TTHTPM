@@ -1,0 +1,15 @@
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu_XSMl\Hieu_XSMl\bin\Debug\Hieu_XSMl.exe.config
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu_XSMl\Hieu_XSMl\bin\Debug\Hieu_XSMl.exe
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu_XSMl\Hieu_XSMl\bin\Debug\Hieu_XSMl.pdb
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu_XSMl\Hieu_XSMl\obj\Debug\Hieu_XSMl.csproj.AssemblyReference.cache
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu_XSMl\Hieu_XSMl\obj\Debug\MainWindow.g.cs
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu_XSMl\Hieu_XSMl\obj\Debug\App.g.cs
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu_XSMl\Hieu_XSMl\obj\Debug\Hieu_XSMl_MarkupCompile.cache
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu_XSMl\Hieu_XSMl\obj\Debug\Hieu_XSMl_MarkupCompile.lref
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu_XSMl\Hieu_XSMl\obj\Debug\MainWindow.baml
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu_XSMl\Hieu_XSMl\obj\Debug\Hieu_XSMl.g.resources
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu_XSMl\Hieu_XSMl\obj\Debug\Hieu_XSMl.Properties.Resources.resources
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu_XSMl\Hieu_XSMl\obj\Debug\Hieu_XSMl.csproj.GenerateResource.cache
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu_XSMl\Hieu_XSMl\obj\Debug\Hieu_XSMl.csproj.CoreCompileInputs.cache
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu_XSMl\Hieu_XSMl\obj\Debug\Hieu_XSMl.exe
+D:\Users\hoang\Documents\Document\HocKy7\TichHopHeThong\Hieu_XSMl\Hieu_XSMl\obj\Debug\Hieu_XSMl.pdb

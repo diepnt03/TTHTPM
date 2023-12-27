@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<congty>
+  <nhanvien manv="n01">
+    <hoten>Nguyễn Thi Anh</hoten>
+    <tuoi>38</tuoi>
+    <luong>1000</luong>
+    <diachi>
+      <xa>Minh Khai</xa>
+      <huyen>Bắc Từ Liên</huyen>
+      <tinh>Hà Nội</tinh>
+    </diachi>
+    <dienthoai>0987878888</dienthoai>
+  </nhanvien>
+  <nhanvien manv="n02">
+    <hoten>Trần Văn Tuấn</hoten>
+    <tuoi>36</tuoi>
+    <luong>1800</luong>
+    <diachi>
+      <xa>Hải Lựu</xa>
+      <huyen>Sông Lô</huyen>
+      <tinh>Vĩnh Phúc</tinh>
+    </diachi>
+    <dienthoai>0986578888</dienthoai>
+  </nhanvien>
+  <nhanvien manv="n04">
+    <hoten>Cao Thế anh</hoten>
+    <tuoi>33</tuoi>
+    <luong>30000</luong>
+    <diachi>
+      <xa>tung chi</xa>
+      <huyen>Gia lâm</huyen>
+      <tinh>Ha noi</tinh>
+    </diachi>
+    <dienthoai>123344646</dienthoai>
+  </nhanvien>
+  <nhanvien manv="n005">
+    <hoten>Minh</hoten>
+    <tuoi>3</tuoi>
+    <luong>34355</luong>
+    <diachi>
+      <xa>cu chi</xa>
+      <huyen>adf</huyen>
+      <tinh>Hà Nội</tinh>
+    </diachi>
+    <dienthoai>35436654</dienthoai>
+  </nhanvien>
+  <nhanvien manv="">
+    <hoten>
+    </hoten>
+    <tuoi>
+    </tuoi>
+    <luong>
+    </luong>
+    <diachi>
+      <xa>
+      </xa>
+      <huyen>
+      </huyen>
+      <tinh>Hà Nội</tinh>
+    </diachi>
+    <dienthoai>
+    </dienthoai>
+  </nhanvien>
+</congty>

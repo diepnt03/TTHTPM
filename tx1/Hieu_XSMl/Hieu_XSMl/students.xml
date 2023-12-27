@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="students2.xslt"?>
+<class>
+	<student rollno="392">
+		<firstname>Dinkar</firstname>
+		<lastname>Kad</lastname>
+		<nickname>Dik</nickname>
+		<marks>5</marks>
+	</student>
+	<student rollno="375">
+		<firstname>violet</firstname>
+		<lastname>Kid</lastname>
+		<nickname>Doom</nickname>
+		<marks>7</marks>
+	</student>
+	<student rollno="376">
+		<firstname>Channa</firstname>
+		<lastname>Thip</lastname>
+		<nickname>Dik</nickname>
+		<marks>6</marks>
+	</student>
+	<student rollno="367">
+		<firstname>Din5kar</firstname>
+		<lastname>Kongg</lastname>
+		<nickname>Dnik</nickname>
+		<marks>9</marks>
+	</student>
+</class>

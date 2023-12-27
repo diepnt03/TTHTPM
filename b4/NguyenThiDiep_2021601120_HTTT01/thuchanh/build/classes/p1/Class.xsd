@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+<xs:complexType name ="person">
+	<xs:sequence>
+		<xs:element name="sid">
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:pattern value="[S]\d{3}"/> 
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:element>
+		<xs:element name="name">
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:pattern value="[A-Za-z ]+"/>	
+				</xs:restriction>						
+			</xs:simpleType>
+		</xs:element>
+		<xs:element name="dob" type="xs:date"/>
+		<xs:element name="mark">	<!--mark là số chỉ cho phép từ 1 đến 10-->
+			<xs:simpleType>
+				<xs:restriction base="xs:int">
+					<xs:minInclusive value="1"/>
+					<xs:maxInclusive value="10"/>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:element>
+	</xs:sequence>
+</xs:complexType>
+<xs:element name="class">
+	<xs:complexType>
+		<xs:sequence>
+			<!-- sẽ có ít nhất 1 con student, nhiều nhất là vo hạn-->
+			<xs:element name="student" type="person" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+</xs:element>
+</xs:schema>

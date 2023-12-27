@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="QLBenhAn"
+    targetNamespace="http://tempuri.org/QLBenhAn.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/QLBenhAn.xsd"
+    xmlns:mstns="http://tempuri.org/QLBenhAn.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<!--Mã số phải duy nhất, tối đa 6 ký tự-->
+	<xs:simpleType name="maSoType">
+		<xs:restriction base="xs:ID">
+			<xs:maxLength value="6"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<!--Mã khoa gồm 5 ký tự: 3 ký tự đầu là chữ cái, tiếp theo là 2 ký tự số-->
+	<xs:simpleType name="maKhoaType">
+		<xs:restriction base="xs:ID">
+			<xs:pattern value="[A-Za-z]{3}[0-9]{2}"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<!--Giới tính chỉ có thể là 1 trong các giá trị nam hoặc nữ-->
+	<xs:simpleType name="gioiTinhType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Nam"/>
+			<xs:enumeration value="Nữ"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:complexType name="benhNhanType">
+		<xs:sequence>
+			<xs:element name="HoTen" type="xs:string"/>
+			<xs:element name="GioiTinh" type="gioiTinhType"/>
+			<xs:element name="SoNgayNamVien" type="xs:int"/>
+		</xs:sequence>
+		<xs:attribute name="MaSo" type="maSoType"/>
+	</xs:complexType>
+
+	<!--Cho phép nhập tối đa 10 khoa và không hạn chế số bênh nhân-->
+	<xs:complexType name="khoaType">
+		<xs:sequence>
+			<xs:element name="TenKhoa" type="xs:string"/>
+			<xs:element name="BenhNhan" type="benhNhanType" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="ID" type="maKhoaType"/>
+		<xs:attribute name="TruongKhoa" type="xs:string"/>
+	</xs:complexType>
+
+	<xs:complexType name="benhVienType">
+		<xs:sequence>
+			<xs:element name="Khoa" type="khoaType" minOccurs="1" maxOccurs="10"/>
+		</xs:sequence>
+		<xs:attribute name="TenBV" type="xs:string"/>
+	</xs:complexType>
+
+	<xs:complexType name="benhAnType">
+		<xs:sequence>
+			<xs:element name="BV" type="benhVienType"/>
+		</xs:sequence>		
+	</xs:complexType>
+
+	<xs:element name="QLBA" type="benhAnType"/>
+</xs:schema>

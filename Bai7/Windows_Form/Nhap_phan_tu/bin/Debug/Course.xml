@@ -1,0 +1,12 @@
+<course>
+  <student id="s02">
+    <name>nguyen thi diep xinh</name>
+    <age>20</age>
+    <city>vp</city>
+  </student>
+  <student id="s03">
+    <name>dfgr</name>
+    <age>56</age>
+    <city>gbfgb</city>
+  </student>
+</course>

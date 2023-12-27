@@ -1,0 +1,7 @@
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\b2\NguyenThiDiep_2021601120_HTTT01\NguyenThiDiep_2021601120_HTTT01\bin\Debug\NguyenThiDiep_2021601120_HTTT01.exe.config
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\b2\NguyenThiDiep_2021601120_HTTT01\NguyenThiDiep_2021601120_HTTT01\bin\Debug\NguyenThiDiep_2021601120_HTTT01.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\b2\NguyenThiDiep_2021601120_HTTT01\NguyenThiDiep_2021601120_HTTT01\bin\Debug\NguyenThiDiep_2021601120_HTTT01.pdb
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\b2\NguyenThiDiep_2021601120_HTTT01\NguyenThiDiep_2021601120_HTTT01\obj\Debug\NguyenThiDiep_2021601120_HTTT01.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\b2\NguyenThiDiep_2021601120_HTTT01\NguyenThiDiep_2021601120_HTTT01\obj\Debug\NguyenThiDiep_2021601120_HTTT01.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\b2\NguyenThiDiep_2021601120_HTTT01\NguyenThiDiep_2021601120_HTTT01\obj\Debug\NguyenThiDiep_2021601120_HTTT01.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\b2\NguyenThiDiep_2021601120_HTTT01\NguyenThiDiep_2021601120_HTTT01\obj\Debug\NguyenThiDiep_2021601120_HTTT01.pdb

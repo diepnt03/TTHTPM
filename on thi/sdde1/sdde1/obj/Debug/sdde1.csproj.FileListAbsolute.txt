@@ -1,0 +1,11 @@
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\on thi\sdde1\sdde1\bin\Debug\sdde1.exe.config
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\on thi\sdde1\sdde1\bin\Debug\sdde1.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\on thi\sdde1\sdde1\bin\Debug\sdde1.pdb
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\on thi\sdde1\sdde1\obj\Debug\sdde1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\on thi\sdde1\sdde1\obj\Debug\sdde1.Form1.resources
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\on thi\sdde1\sdde1\obj\Debug\sdde1.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\on thi\sdde1\sdde1\obj\Debug\sdde1.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\on thi\sdde1\sdde1\obj\Debug\sdde1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\on thi\sdde1\sdde1\obj\Debug\sdde1.exe
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\on thi\sdde1\sdde1\obj\Debug\sdde1.pdb
+C:\Users\ADMIN\OneDrive\Documents\hk5\TichHopHeThong\on thi\sdde1\sdde1\obj\Debug\sdde1.Form2.resources
